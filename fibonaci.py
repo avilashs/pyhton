@@ -10,5 +10,4 @@ def fibonaci(n):
 
 def test():
     print(fibonaci(20))
-
 test()
